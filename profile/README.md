@@ -1,15 +1,12 @@
-## 要不跑路吧
 
-**中文** | [English](https://github.com/BFBAN/.github/blob/main/profile/README_en-US.md)
+<div align="center">
+  <img alt="BFBAN logo" src="./logo.png" width="120px" style="border-radius: 50%;">
+</div>
 
-代码和人有一个能run就行了  
-已经坐船到柬埔寨了，马上转船到金三角了（
+# BFBAN
 
+[🌏 Website](https://bfban.com) | [Chinese development community](https://www.kookapp.cn/app/channels/896258605789939) | [English community](https://pages.github.com/)
 
+----
 
-
-![Metrics](https://metrics.lecoq.io/bfban?template=classic&base.indepth=false&config.timezone=Asia%2FHong_Kong)
-
-
-![g](https://github.com/BFBAN/.github/blob/main/profile/g.jpg)
-
+@2018-Till now
